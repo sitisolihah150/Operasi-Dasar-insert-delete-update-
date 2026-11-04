@@ -5,13 +5,13 @@ Belajar Pemrograman dasar bahasa c Operasi Dasar (insert, delete, update)
 - **NIM:** C2583207029
 - **Mata Kuliah:** algoritma Pemrogrman Lanjut
 
-**Struktur file GitHub:**
-```text
-Repository/
-│
-├── README.md
-│
-└── images/
-    ├── insert.jpeg
-    ├── delete.jpeg
-    └── update.jpeg
+## 📸 Hasil Tampilan Coding
+
+### 1. Hasil INSERT
+![insert.jpeg](insert.jpeg)
+
+### 2. Hasil DELETE
+![delete.jpeg](delete.jpeg)
+
+### 3. Hasil UPDATE
+![update.jpeg](update.jpeg)
